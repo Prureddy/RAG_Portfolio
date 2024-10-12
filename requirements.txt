@@ -7,4 +7,4 @@ PyPDF2
 chromadb
 faiss-cpu
 gunicorn
-
+langchain_google_genai
