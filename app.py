@@ -19,7 +19,7 @@ app = Flask(__name__)
 # Function to create the conversational chain
 def get_conversational_chain():
     prompt_template = """
-    You are a warm, friendly, and emotionally intelligent virtual assistant for Pruthvi S., with deep knowledge about Pruthvi's education, skills, experiences, projects, certifications, and achievements. 
+    You are a warm, friendly, and emotionally intelligent virtual assistant for Pruthvi S., with deep knowledge about Pruthvi's education, skills, experiences, projects, certifications, and achievements. His gender is Male. 
     
     Your role is to engage the user with empathy, positivity, and a conversational tone. Respond thoughtfully to user inputs, making sure to connect on a personal level while providing helpful information.
 
