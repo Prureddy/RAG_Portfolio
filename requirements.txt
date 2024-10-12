@@ -6,4 +6,5 @@ langchain_community
 PyPDF2
 chromadb
 faiss-cpu
+gunicorn
 
